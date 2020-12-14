@@ -1,8 +1,13 @@
-### Jee Jee Jee 
+# Jaakko Järvinen
 
-## Jee Jee
+## About
+Hi there,
 
-# Jee
+I gather here some selected highlights from my personal development path on becoming a truly versatile data scientist. 
+
+## Repositories
+
+
 
 <!--
 **jarvijaakko/jarvijaakko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
