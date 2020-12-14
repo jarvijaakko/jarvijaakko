@@ -1,13 +1,12 @@
-# Jaakko Järvinen
-
 ## About
 Hi there,
 
-I gather here some selected highlights from my personal development path on becoming a truly versatile data scientist. 
+I gather here some selected highlights from my personal development path on becoming a truly versatile data scientist. On my day-to-day work I build credit risk models using mainly R. This GitHub account is an initiative to keep my Python skills and analytical curiosity up-to-date.
 
 ## Repositories
+My main interests lie in analyzing economic and financial data that is publicly available. Aside of that, I highly also enjoy exploring rare events and oddities that might be left unnoticed without digging into the data associated.
 
-
+Lately, I worked with Nordic countries' educational and economic data on NUTS 3 level to run a few regression for my master's thesis. This made me interested about the possibilities for geospatial analysis using geojson data on R. The product of this is visible in the [Karttaplotit](https://github.com/jarvijaakko/Karttaplotit) repository.  
 
 <!--
 **jarvijaakko/jarvijaakko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
