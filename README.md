@@ -10,7 +10,7 @@ A few years ago, I worked with Nordic countries' educational and economic data o
 
 Lately, I've grown an interest towards financial markets and the immense amount of publicly available data there is. This has made me to study the process of making interactive and nice-looking dashboards using Python. I've included this project in the repository [Portfolio_analysis](https://github.com/jarvijaakko/Portfolio_analysis) (in-progress).
 
-My future self-improvement goals include bringing back the key concepts of the mostly used python libraries as well as learning the basics of mobile app development.
+My future self-improvement goals include bringing back to my mind the key concepts of the mostly used python libraries as well as learning the basics of GUI and mobile app development.
 
 <!--
 **jarvijaakko/jarvijaakko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
