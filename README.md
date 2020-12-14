@@ -8,7 +8,7 @@ My main interests lie in analyzing economic and financial data that is publicly 
 ## Repositories
 A few years ago, I worked with Nordic countries' educational and economic data on NUTS 3 (i.e. county) level to run a few regressions for my master's thesis. This made me interested about the possibilities for geospatial analysis using geojson data on R. As is often the case, I got carried away and developed a script to plot these data also on country, city and zip-code level. The product of this is visible in the [Karttaplotit](https://github.com/jarvijaakko/Karttaplotit) repository.
 
-Lately, I've grown an interest towards financial markets and the immense amount of publicly available data there is. This has made me to study the process of making interactive and nice-looking dashboards using Python. I've included this project in the repository [Portfolio_analysis](https://github.com/jarvijaakko/Portfolio_analysis) (in progress).
+Lately, I've grown an interest towards financial markets and the immense amount of publicly available data there is. This has made me to study the process of building interactive and nice-looking dashboards using Python. I've included this project in the repository [Portfolio_analysis](https://github.com/jarvijaakko/Portfolio_analysis) (in progress).
 
 My future self-improvement goals include bringing back to my mind the key concepts of the mostly used python libraries as well as learning the basics of GUI and mobile app development.
 
