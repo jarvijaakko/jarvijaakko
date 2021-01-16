@@ -14,6 +14,11 @@ Currently, I'm re-familiarizing myself with Python's fundamental Pandas and Plot
 
 My future self-improvement goals include bringing the key concepts of the mostly used python libraries back to my mind as well as learning the basics of GUI and mobile app development.
 
+## Stats
+Here are some insightful stats about my GitHub activity. It seems that Python is currently my favorite tool although I am hoping to increase my web content using HTML and CSS.
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jarvijaakko&layout=compact)
+
 <!--
 **jarvijaakko/jarvijaakko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on Jee Jee
