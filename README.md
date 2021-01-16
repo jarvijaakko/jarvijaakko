@@ -12,7 +12,7 @@ Lately, I've grown an interest towards financial markets and the immense amount 
 
 Currently, I'm re-familiarizing myself with Python's fundamental Pandas and Plotly libraries. The progress is visible in the [Corona_analysis_dashboard](https://github.com/jarvijaakko/Corona_analysis) repository. As is clear from the repository name, I am using the official daily WHO data in the analysis.
 
-My future self-improvement goals include bringing the key concepts of the mostly used python libraries back to my mind as well as learning the basics of GUI and mobile app development.
+My future self-improvement goals include bringing the key concepts of the mostly used python libraries back to my mind as well as learning the basics of app and website development.
 
 ## Stats
 Here are some insightful stats about my GitHub activity. It seems that Python is currently my favorite tool although I am hoping to increase my web content using HTML and CSS.
