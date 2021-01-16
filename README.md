@@ -10,7 +10,7 @@ A few years ago, I worked with Nordic countries' educational and economic data o
 
 Lately, I've grown an interest towards financial markets and the immense amount of publicly available data there is. This has made me to study the process of building interactive and nice-looking dashboards using Python. I've included this project in the repository [Portfolio_analysis](https://github.com/jarvijaakko/Portfolio_analysis) (in progress).
 
-Currently, I'm re-familiarizing myself with Python's fundamental Pandas and Plotly libraries. The progress is visible in the [Corona_analysis](https://github.com/jarvijaakko/Corona_analysis) repository. As is clear from the repository name, I am using the official daily WHO data in the analysis.
+Currently, I'm re-familiarizing myself with Python's fundamental Pandas and Plotly libraries. The progress is visible in the [Corona_analysis_dashboard](https://github.com/jarvijaakko/Corona_analysis) repository. As is clear from the repository name, I am using the official daily WHO data in the analysis.
 
 My future self-improvement goals include bringing the key concepts of the mostly used python libraries back to my mind as well as learning the basics of GUI and mobile app development.
 
