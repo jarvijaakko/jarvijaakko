@@ -8,9 +8,9 @@ My main interests lie in analyzing economic and financial data that is publicly 
 ## Repositories
 A few years ago, I worked with Nordic countries' educational and economic data on NUTS 3 (i.e. county) level to run a few regressions for my master's thesis. This made me interested about the possibilities for geospatial analysis using geojson data on R. As is often the case, I got carried away and developed a script to plot these data also on country, city and zip-code level. The product of this is visible in the [Karttaplotit](https://github.com/jarvijaakko/Karttaplotit) repository.
 
-Lately, I've grown an interest towards financial markets and the immense amount of publicly available data there is. This has made me to study the process of building interactive and nice-looking dashboards using Python. I've included this project in the repository [Portfolio_analysis](https://github.com/jarvijaakko/Portfolio_analysis) (in progress).
+Lately, I've grown an interest towards financial markets and the immense amount of publicly available data there is. This has made me to study the process of building interactive and nice-looking dashboards using Python. I've included this project in the repository [Portfolio_analysis_dashboard](https://github.com/jarvijaakko/Portfolio_analysis).
 
-Currently, I'm re-familiarizing myself with Python's fundamental Pandas and Plotly libraries. The progress is visible in the [Corona_analysis_dashboard](https://github.com/jarvijaakko/Corona_analysis) repository. As is clear from the repository name, I am using the official daily WHO data in the analysis.
+Currently, I'm re-familiarizing myself with Python's fundamental Pandas and Plotly libraries. The progress is visible in the [Corona_analysis](https://github.com/jarvijaakko/Corona_analysis) repository. As is clear from the repository name, I am using the official daily WHO data in the analysis.
 
 My future self-improvement goals include bringing the key concepts of the mostly used python libraries back to my mind as well as learning the basics of app and website development.
 
