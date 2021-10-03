@@ -1,7 +1,7 @@
 ## About
 Hi there,
 
-I gather here some selected highlights from my personal development path on becoming a truly versatile data scientist. On my day-to-day work I build credit risk models for Nordic banks using mainly R. This GitHub account is an initiative to keep my Python skills and analytical curiosity up-to-date.
+I gather here some selected highlights from my personal development path on becoming a truly versatile data scientist. On my day-to-day work I have built and validated credit risk models for Nordic banks using mainly R. This GitHub account is an initiative to keep my Python skills and analytical curiosity up-to-date.
 
 My main interests lie in analyzing economic and financial data that are publicly available. Aside of that, I also highly enjoy exploring rare events and oddities that might be left unnoticed without digging into some more non-conventional data.
 
